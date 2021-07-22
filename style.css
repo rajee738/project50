@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(252, 248, 248);
+}
+
+/* * {
+    border: solid;
+} */
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(31, 66, 180);
+}
+
+  
+
+.body{
+    border: 5px solid rgb(12, 107, 107);
+    border-radius: 50px;
+}
+   
+
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+    border: 5px solid rgb(44, 9, 83);
+    border-radius: 50px;
+}
+.item{
+    border-radius: 20px;
+  
+
+    width: 350px;
+    height: 460px;
+    font-family:fantasy;
+}
+
+
